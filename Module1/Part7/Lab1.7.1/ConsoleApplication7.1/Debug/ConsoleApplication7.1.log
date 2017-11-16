@@ -1,0 +1,8 @@
+﻿  ConsoleApplication71.cpp
+c:\users\вован\source\repos\consoleapplication7.1\consoleapplication7.1\consoleapplication71.cpp(9): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\вован\source\repos\consoleapplication7.1\consoleapplication7.1\consoleapplication71.cpp(10): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\вован\source\repos\consoleapplication7.1\consoleapplication7.1\consoleapplication71.cpp(11): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\вован\source\repos\consoleapplication7.1\consoleapplication7.1\consoleapplication71.cpp(12): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\вован\source\repos\consoleapplication7.1\consoleapplication7.1\consoleapplication71.cpp(13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication7.1.vcxproj -> C:\Users\Вован\source\repos\ConsoleApplication7.1\Debug\ConsoleApplication7.1.exe
+  ConsoleApplication7.1.vcxproj -> C:\Users\Вован\source\repos\ConsoleApplication7.1\Debug\ConsoleApplication7.1.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Lab441.cpp
+c:\users\вован\source\repos\lab4.4.1\lab4.4.1\lab441.cpp(13): warning C4018: <=: несоответствие типов со знаком и без знака
+  Lab4.4.1.vcxproj -> c:\users\вован\source\repos\Lab4.4.1\Debug\Lab4.4.1.exe
+  Lab4.4.1.vcxproj -> c:\users\вован\source\repos\Lab4.4.1\Debug\Lab4.4.1.pdb (Partial PDB)

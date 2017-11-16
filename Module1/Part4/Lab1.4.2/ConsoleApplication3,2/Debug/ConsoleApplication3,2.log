@@ -1,0 +1,5 @@
+﻿  ConsoleApplication32.cpp
+c:\users\вован\source\repos\consoleapplication3,2\consoleapplication3,2\consoleapplication32.cpp(8): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\вован\source\repos\consoleapplication3,2\consoleapplication3,2\consoleapplication32.cpp(14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication3,2.vcxproj -> C:\Users\Вован\source\repos\ConsoleApplication3,2\Debug\ConsoleApplication3,2.exe
+  ConsoleApplication3,2.vcxproj -> C:\Users\Вован\source\repos\ConsoleApplication3,2\Debug\ConsoleApplication3,2.pdb (Partial PDB)
