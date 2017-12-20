@@ -24,5 +24,6 @@ int main(void)
 		if (isPrime(i))
 			cout << i << " ";
 	cout << endl;
+	cin;
 	return 0;
 }
